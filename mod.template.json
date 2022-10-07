@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Lauriethefish/QuestPatcher.QMod/main/QuestPatcher.QMod/Resources/qmod.schema.json",
+  "_QPVersion": "0.1.1",
+  "name": "${mod_name}",
+  "id": "${mod_id}",
+  "author": "Graze",
+  "version": "0.1.0",
+  "packageId": "com.Duttbust.Capuchin",
+  "packageVersion": "1.0.9",
+  "description": "You did it YAY!",
+  "dependencies": [],
+  "modFiles": [],
+  "libraryFiles": [],
+  "fileCopies": []
+}

@@ -1,0 +1,29 @@
+{
+  "_QPVersion": "0.1.1",
+  "name": "Capuchin First Mod",
+  "id": "CapuchinPubMod",
+  "author": "Graze",
+  "version": "0.1.0",
+  "packageId": "com.Duttbust.Capuchin",
+  "packageVersion": "1.0.9",
+  "description": "You did it YAY!",
+  "dependencies": [
+    {
+    "id": "beatsaber-hook",
+    "versionRange": "^3.14.0",
+    "additionalData": {}
+  },
+  {
+    "id": "modloader",
+    "versionRange": "^1.2.3",
+    "additionalData": {}
+  }],
+  "modFiles": [
+    "libCapuchinPubMod.so"
+  ],
+  "libraryFiles": [
+    "libbeatsaber-hook_3_14_0.so"
+  ],
+  "fileCopies": [],
+  "copyExtensions": []
+}
